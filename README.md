@@ -1,16 +1,14 @@
-## Hi there 👋
+## Olá, sou Wanderson VS Cota 👋
 
-<!--
-**wancosta/wancosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Trabalho como SRE - Site Reliability Engineering 
+- 🌱 Estudando continuamente,Kubernetes, Terraform, Jankins, Ansible e AWS
+- 📫 Contate-me: wan.costa@gmail.com
+- 😄 Pronouns: ele/dele
 
-Here are some ideas to get you started:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wancosta/wancosta/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wancosta/wancosta/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/wancosta/wancosta/output/github-contribution-grid-snake.svg">
+</picture>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+_generated with [Platane/snk](https://github.com/Platane/snk)_
