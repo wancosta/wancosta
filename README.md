@@ -6,13 +6,17 @@
 - 😄 Pronouns: ele/dele
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Rafa-Js" height="80" width="90" src="https://raw.githubusercontent.com/wancosta/wancosta/refs/heads/main/icons/microsoft-logo-svgrepo-com.svg">
+  <img align="center" alt="Rafa-Ts" height="80" width="90" src="https://raw.githubusercontent.com/wancosta/wancosta/refs/heads/main/icons/qq-icon-logo-svgrepo-com.svg">
+  <img align="center" alt="Rafa-React" height="40" width="50" src="https://raw.githubusercontent.com/wancosta/wancosta/refs/heads/main/icons/icons8-aws.svg">
+  <img align="center" alt="Rafa-HTML" height="40" width="50" src="https://raw.githubusercontent.com/wancosta/wancosta/refs/heads/main/icons/azure-1-logo-svgrepo-com.svg">
+  <img align="center" alt="Rafa-CSS" height="40" width="50" src="https://raw.githubusercontent.com/wancosta/wancosta/refs/heads/main/icons/docker-logo-svgrepo-com.svg">
+  <img align="center" alt="Rafa-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/wancosta/wancosta/refs/heads/main/icons/icons8-kubernetes.svg">
+  <img align="center" alt="Rafa-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Python" height="40" width="50" src="https://raw.githubusercontent.com/wancosta/wancosta/refs/heads/main/icons/icons8-ansible.svg">
+  <img align="center" alt="Rafa-Python" height="40" width="50" src="https://raw.githubusercontent.com/wancosta/wancosta/refs/heads/main/icons/icons8-terraformar.svg">
+  <img align="center" alt="Rafa-Python" height="40" width="50" src="https://raw.githubusercontent.com/wancosta/wancosta/refs/heads/main/icons/postgresql-logo-svgrepo-com.svg">
+  <img align="center" alt="Rafa-Python" height="80" width="90" src="https://raw.githubusercontent.com/wancosta/wancosta/refs/heads/main/icons/mongodb-logo-svgrepo-com.svg">
 </div>
 
 ##
